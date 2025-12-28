@@ -75,6 +75,10 @@ This API provides a comprehensive backend service for building AI-powered chat a
 
 ## 📡 API Routes
 
+### Swagger UI :-
+<img width="1707" height="841" alt="image" src="https://github.com/user-attachments/assets/957201cd-4a56-4d31-9452-57ce6887ad88" />
+
+
 ### Users
 - `POST /users/register` - Register new user
 - `POST /users/login` - Login and get JWT tokens (access + refresh)
